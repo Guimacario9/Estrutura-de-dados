@@ -1,0 +1,25 @@
+Matéria pra prova do Santana:
+
+- Listas Lineares;
+- Fila e Pilha;
+- Bubble;
+- Ponteiros.
+
+//LIFO = Last in, first out
+//FIFO = First in, first out
+
+--------------------------------------------------------------
+
+Trabalho:
+
+Desenvolver pila e fila
+
+---------------------------------------------------------------
+
+Cabeçalho das funções
+
+void intPilha (Pilha * p)
+int pilhaCheia (Pilha p)
+int pilhaVazia (Pilha p)
+int push (Livro L, Pilha * p)
+Livro * pop (Pilha * p)

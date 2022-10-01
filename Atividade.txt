@@ -1,0 +1,1 @@
+Programar em C que Solicite a  quantidade de contibuições, em seguida cadacontribuição.Feito Isso ,listar na tela quanto cada contribuição represntação perncentual em relação ao total.
